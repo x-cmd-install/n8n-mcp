@@ -1,0 +1,61 @@
+about:
+  description: A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
+  license: MIT
+  homepage: https://www.n8n-mcp.com/
+  head: afc85b2
+  archived: false
+  latestVersion: v2.77.0
+  collectedAt: 2026-09-02T04:41:19Z
+timeline:
+  created: 2025-06-07
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-31
+popularity:
+  star: 22819
+  watcher: 161
+  fork: 3638
+  release: 271
+  contributor: 30
+  pullRequest: 168
+  issue: 417
+language:
+  TypeScript: 8277685
+  JavaScript: 209350
+  Shell: 77500
+  HTML: 17979
+  Dockerfile: 4892
+  CSS: 1147
+totalLine: 8588553
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 25
+    mergedPR: 29
+    openPR: 8
+    closedIssue: 14
+    openIssue: 9
+    commit: 28
+  last90d:
+    since: 2026-06-04
+    release: 51
+    mergedPR: 90
+    openPR: 32
+    closedIssue: 32
+    openIssue: 13
+    commit: 128
+  last180d:
+    since: 2026-03-06
+    release: 100
+    mergedPR: 174
+    openPR: 36
+    closedIssue: 116
+    openIssue: 18
+    commit: 234
+  last360d:
+    since: 2025-09-07
+    release: 100
+    mergedPR: 351
+    openPR: 39
+    closedIssue: 271
+    openIssue: 25
+    commit: 667
