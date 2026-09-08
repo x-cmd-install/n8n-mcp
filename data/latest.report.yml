@@ -5,13 +5,13 @@ about:
   head: c4a2f69
   archived: false
   latestVersion: "v2.82.1"
-  collectedAt: 2026-09-08T03:04:15Z
+  collectedAt: 2026-09-08T05:40:25Z
 timeline:
   created: 2025-06-07
   lastCommit: 2026-09-03
   lastRelease: 2026-09-03
 popularity:
-  star: 22845
+  star: 22843
   watcher: 161
   fork: 3640
   release: 280
@@ -84,7 +84,7 @@ total:
   commit: 1217
 ---
 path: /home/runner/.x-repo/github.com/czlonkowski/n8n-mcp
-collectedAt: 2026-09-08T03:05:54Z
+collectedAt: 2026-09-08T05:42:03Z
 loc:
   TypeScript:
     code: 184167
