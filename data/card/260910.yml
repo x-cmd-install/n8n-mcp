@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.84.0"
   latestRelease: "v2.84.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:25:22Z
+  collectedAt: 2026-09-10T23:33:19Z
 timeline:
   created: 2025-06-07
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 22862
+  star: 22866
   watcher: 161
   fork: 3638
   release: 282
@@ -88,7 +88,7 @@ total:
   commit: 1219
 ---
 path: /home/runner/.x-repo/github.com/czlonkowski/n8n-mcp
-collectedAt: 2026-09-10T20:27:39Z
+collectedAt: 2026-09-10T23:35:13Z
 loc:
   TypeScript:
     code: 184521
