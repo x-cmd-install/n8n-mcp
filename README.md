@@ -38,7 +38,7 @@ Total: **249,281** lines of code across **694** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 22,862 · **Forks**: 3,638 · **Open issues**: 424 · **Contributors**: 35
+- **Stars**: 22,866 · **Forks**: 3,638 · **Open issues**: 424 · **Contributors**: 35
 
 ## Totals (cumulative)
 
@@ -70,4 +70,4 @@ Install metadata for n8n-mcp lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:27:44Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:35:18Z._
