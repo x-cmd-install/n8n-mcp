@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/czlonkowski/n8n-mcp/releases/385847736",
-  "assets_url": "https://api.github.com/repos/czlonkowski/n8n-mcp/releases/385847736/assets",
-  "upload_url": "https://uploads.github.com/repos/czlonkowski/n8n-mcp/releases/385847736/assets{?name,label}",
-  "html_url": "https://github.com/czlonkowski/n8n-mcp/releases/tag/v2.84.0",
-  "id": 385847736,
+  "url": "https://api.github.com/repos/czlonkowski/n8n-mcp/releases/387083120",
+  "assets_url": "https://api.github.com/repos/czlonkowski/n8n-mcp/releases/387083120/assets",
+  "upload_url": "https://uploads.github.com/repos/czlonkowski/n8n-mcp/releases/387083120/assets{?name,label}",
+  "html_url": "https://github.com/czlonkowski/n8n-mcp/releases/tag/v2.84.1",
+  "id": 387083120,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOO3qbac4W_5G4",
-  "tag_name": "v2.84.0",
+  "node_id": "RE_kwDOO3qbac4XEmtw",
+  "tag_name": "v2.84.1",
   "target_commitish": "main",
-  "name": "Release v2.84.0",
+  "name": "Release v2.84.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-09T21:07:44Z",
-  "updated_at": "2026-09-09T21:09:37Z",
-  "published_at": "2026-09-09T21:07:46Z",
+  "created_at": "2026-09-11T14:01:56Z",
+  "updated_at": "2026-09-11T14:04:07Z",
+  "published_at": "2026-09-11T14:01:58Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/czlonkowski/n8n-mcp/releases/assets/553580088",
-      "id": 553580088,
-      "node_id": "RA_kwDOO3qbac4g_vY4",
-      "name": "n8n-mcp-2.84.0.mcpb",
+      "url": "https://api.github.com/repos/czlonkowski/n8n-mcp/releases/assets/557362570",
+      "id": 557362570,
+      "node_id": "RA_kwDOO3qbac4hOK2K",
+      "name": "n8n-mcp-2.84.1.mcpb",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -66,14 +66,14 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 2019,
-      "digest": "sha256:46367bea8858f137eedc14b09815e4fefabaeb3f92778f660f72ae57d8d3ee2e",
-      "download_count": 6,
-      "created_at": "2026-09-09T21:09:36Z",
-      "updated_at": "2026-09-09T21:09:37Z",
-      "browser_download_url": "https://github.com/czlonkowski/n8n-mcp/releases/download/v2.84.0/n8n-mcp-2.84.0.mcpb"
+      "digest": "sha256:c8712afb93950ca1d3ce504941bf99535949371b72c6bfe6592f105480ceeac2",
+      "download_count": 4,
+      "created_at": "2026-09-11T14:04:07Z",
+      "updated_at": "2026-09-11T14:04:07Z",
+      "browser_download_url": "https://github.com/czlonkowski/n8n-mcp/releases/download/v2.84.1/n8n-mcp-2.84.1.mcpb"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/czlonkowski/n8n-mcp/tarball/v2.84.0",
-  "zipball_url": "https://api.github.com/repos/czlonkowski/n8n-mcp/zipball/v2.84.0",
-  "body": "# Release v2.84.0\n\nGenerating release notes from v2.83.0 to HEAD\n### 🔧 Maintenance\n\n- Update n8n to 2.38.x (v2.84.0) (#1086) (a5e3af7)\n\n---\n\n**Release Statistics:**\n- 1 commit\n- 1 contributor\n- Contributors: Romuald Członkowski\n\n---\n\n## Installation\n\n### NPM Package\n```bash\n# Install globally\nnpm install -g n8n-mcp\n\n# Or run directly\nnpx n8n-mcp\n```\n\n### Docker\n```bash\n# Standard image\ndocker run -p 3000:3000 ghcr.io/czlonkowski/n8n-mcp:v2.84.0\n\n# Railway optimized\ndocker run -p 3000:3000 ghcr.io/czlonkowski/n8n-mcp-railway:v2.84.0\n```\n\n## Documentation\n- [Installation Guide](https://github.com/czlonkowski/n8n-mcp#installation)\n- [Docker Deployment](https://github.com/czlonkowski/n8n-mcp/blob/main/docs/DOCKER_README.md)\n- [n8n Integration](https://github.com/czlonkowski/n8n-mcp/blob/main/docs/N8N_DEPLOYMENT.md)\n- [Complete Changelog](https://github.com/czlonkowski/n8n-mcp/blob/main/docs/CHANGELOG.md)\n\n🤖 *Generated with [Claude Code](https://claude.ai/code)*\n"
+  "tarball_url": "https://api.github.com/repos/czlonkowski/n8n-mcp/tarball/v2.84.1",
+  "zipball_url": "https://api.github.com/repos/czlonkowski/n8n-mcp/zipball/v2.84.1",
+  "body": "# Release v2.84.1\n\nGenerating release notes from v2.84.0 to HEAD\n### 🐛 Bug Fixes\n\n- Validate workflow node shapes before graph traversal (v2.84.1) (#1073) (54cea84)\n\n---\n\n**Release Statistics:**\n- 1 commit\n- 1 contributor\n- Contributors: Maxim Gagiev\n\n---\n\n## Installation\n\n### NPM Package\n```bash\n# Install globally\nnpm install -g n8n-mcp\n\n# Or run directly\nnpx n8n-mcp\n```\n\n### Docker\n```bash\n# Standard image\ndocker run -p 3000:3000 ghcr.io/czlonkowski/n8n-mcp:v2.84.1\n\n# Railway optimized\ndocker run -p 3000:3000 ghcr.io/czlonkowski/n8n-mcp-railway:v2.84.1\n```\n\n## Documentation\n- [Installation Guide](https://github.com/czlonkowski/n8n-mcp#installation)\n- [Docker Deployment](https://github.com/czlonkowski/n8n-mcp/blob/main/docs/DOCKER_README.md)\n- [n8n Integration](https://github.com/czlonkowski/n8n-mcp/blob/main/docs/N8N_DEPLOYMENT.md)\n- [Complete Changelog](https://github.com/czlonkowski/n8n-mcp/blob/main/docs/CHANGELOG.md)\n\n🤖 *Generated with [Claude Code](https://claude.ai/code)*\n"
 }
