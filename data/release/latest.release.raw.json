@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2019,
       "digest": "sha256:f7494aa6961dc209b63f5a7b3a18ce0a5bbf83d98b4573f86215ab1ff4503ff8",
-      "download_count": 2,
+      "download_count": 7,
       "created_at": "2026-09-16T21:39:20Z",
       "updated_at": "2026-09-16T21:39:21Z",
       "browser_download_url": "https://github.com/czlonkowski/n8n-mcp/releases/download/v2.87.0/n8n-mcp-2.87.0.mcpb"
