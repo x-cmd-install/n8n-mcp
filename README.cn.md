@@ -4,7 +4,7 @@
 
 A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
 
-![n8n-mcp](https://repo.x-cmd.io/n8n-mcp.svg?lang=zh)
+[![x-cmd/install — n8n-mcp Code Quality Monitoring Repo Card](https://repo.x-cmd.io/n8n-mcp.svg?lang=zh)](https://x-cmd.com/install/n8n-mcp)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install n8n-mcp
 
 ## 流行度
 
-- **Star**: 22,921 · **Fork**: 3,651 · **开放 issue**: 442 · **贡献者**: 35
+- **Star**: 22,950 · **Fork**: 3,655 · **开放 issue**: 442 · **贡献者**: 35
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install n8n-mcp
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 25 | 37 | 18 | 29 | 8 | 79 |
-| last60d | 2026-07-20 | 50 | 67 | 20 | 47 | 9 | 110 |
-| 90d | 2026-06-20 | 61 | 107 | 29 | 52 | 12 | 164 |
-| last180d | 2026-03-22 | 100 | 186 | 33 | 126 | 16 | 290 |
-| 360d | 2025-09-23 | 100 | 366 | 36 | 291 | 22 | 671 |
-| last720d | 2024-09-28 | 100 | 407 | 37 | 417 | 25 | 1281 |
+| 30d | 2026-08-21 | 24 | 37 | 18 | 29 | 8 | 79 |
+| last60d | 2026-07-22 | 50 | 67 | 20 | 46 | 9 | 110 |
+| 90d | 2026-06-22 | 60 | 101 | 29 | 49 | 12 | 164 |
+| last180d | 2026-03-24 | 100 | 186 | 31 | 125 | 16 | 290 |
+| 360d | 2025-09-25 | 100 | 362 | 36 | 288 | 22 | 671 |
+| last720d | 2024-09-30 | 100 | 407 | 37 | 417 | 25 | 1281 |
 
 ## Release 资产
 
@@ -70,4 +70,4 @@ n8n-mcp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:03:57Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:17:29Z._
