@@ -38,7 +38,7 @@ Total: **256,609** lines of code across **729** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 23,011 · **Forks**: 3,661 · **Open issues**: 444 · **Contributors**: 35
+- **Stars**: 23,015 · **Forks**: 3,660 · **Open issues**: 444 · **Contributors**: 35
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **256,609** lines of code across **729** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 23 | 32 | 21 | 25 | 5 | 61 |
-| last60d | 2026-07-30 | 46 | 60 | 22 | 39 | 11 | 103 |
-| 90d | 2026-06-30 | 60 | 86 | 29 | 49 | 14 | 124 |
-| last180d | 2026-04-01 | 100 | 176 | 33 | 112 | 18 | 276 |
-| 360d | 2025-10-03 | 100 | 350 | 39 | 281 | 24 | 496 |
-| last720d | 2024-10-08 | 100 | 410 | 40 | 417 | 27 | 1289 |
+| 30d | 2026-08-30 | 22 | 32 | 21 | 25 | 5 | 61 |
+| last60d | 2026-07-31 | 45 | 60 | 22 | 39 | 11 | 103 |
+| 90d | 2026-07-01 | 60 | 86 | 28 | 49 | 14 | 124 |
+| last180d | 2026-04-02 | 100 | 175 | 33 | 111 | 18 | 276 |
+| 360d | 2025-10-04 | 100 | 345 | 39 | 280 | 24 | 496 |
+| last720d | 2024-10-09 | 100 | 410 | 40 | 417 | 27 | 1289 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for n8n-mcp lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:21:07Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:45:26Z._
