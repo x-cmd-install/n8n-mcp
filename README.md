@@ -14,12 +14,12 @@ x install n8n-mcp
 
 ## Code insight
 
-Total: **256,609** lines of code across **729** files in the top 5 languages.
+Total: **256,970** lines of code across **729** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 191,508 | 24,374 | 32,358 | 615 |
-| Json | 56,423 | 0 | 3 | 27 |
+| TypeScript | 191,508 | 24,376 | 32,358 | 615 |
+| Json | 56,784 | 0 | 3 | 27 |
 | JavaScript | 5,197 | 648 | 935 | 43 |
 | Sh | 1,749 | 343 | 363 | 23 |
 | Tsx | 725 | 3 | 30 | 21 |
@@ -32,34 +32,34 @@ Total: **256,609** lines of code across **729** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.90.0` (2026-09-27)
-- **Last commit**: 2026-09-27
+- **Latest**: `v2.91.0` (2026-10-01)
+- **Last commit**: 2026-10-01
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 23,030 · **Forks**: 3,666 · **Open issues**: 444 · **Contributors**: 35
+- **Stars**: 23,034 · **Forks**: 3,664 · **Open issues**: 446 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 291 · **Merged PRs**: 410 · **Open PRs**: 40 · **Closed issues**: 417 · **Open issues**: 27 · **Commits**: 1289
+- **Releases**: 292 · **Merged PRs**: 411 · **Open PRs**: 40 · **Closed issues**: 418 · **Open issues**: 28 · **Commits**: 1290
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 20 | 30 | 20 | 22 | 5 | 61 |
-| last60d | 2026-08-02 | 45 | 60 | 22 | 39 | 11 | 103 |
-| 90d | 2026-07-03 | 59 | 78 | 27 | 49 | 11 | 124 |
-| last180d | 2026-04-04 | 100 | 171 | 33 | 111 | 18 | 276 |
-| 360d | 2025-10-06 | 100 | 333 | 39 | 272 | 24 | 496 |
-| last720d | 2024-10-11 | 100 | 410 | 40 | 417 | 27 | 1289 |
+| 30d | 2026-09-02 | 21 | 24 | 17 | 21 | 5 | 62 |
+| last60d | 2026-08-03 | 46 | 60 | 22 | 40 | 12 | 104 |
+| 90d | 2026-07-04 | 59 | 79 | 27 | 50 | 12 | 125 |
+| last180d | 2026-04-05 | 100 | 172 | 33 | 112 | 19 | 277 |
+| 360d | 2025-10-07 | 100 | 330 | 39 | 273 | 25 | 497 |
+| last720d | 2024-10-12 | 100 | 411 | 40 | 418 | 28 | 1290 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [n8n-mcp-2.90.0.mcpb](https://github.com/czlonkowski/n8n-mcp/releases/download/v2.90.0/n8n-mcp-2.90.0.mcpb) | 2.0 KiB | `other` |
+| [n8n-mcp-2.91.0.mcpb](https://github.com/czlonkowski/n8n-mcp/releases/download/v2.91.0/n8n-mcp-2.91.0.mcpb) | 2.0 KiB | `other` |
 
 ## Improve this data
 
@@ -70,4 +70,4 @@ Install metadata for n8n-mcp lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:48:51Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:33:11Z._
