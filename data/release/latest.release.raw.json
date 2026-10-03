@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2019,
       "digest": "sha256:fa7f7ddd91775f37f190c91d4ef031bc4c04af66b1d57839e4bbd43a216b6c70",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-10-01T18:07:54Z",
       "updated_at": "2026-10-01T18:07:55Z",
       "browser_download_url": "https://github.com/czlonkowski/n8n-mcp/releases/download/v2.91.0/n8n-mcp-2.91.0.mcpb"
