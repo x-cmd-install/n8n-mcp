@@ -48,12 +48,12 @@ Total: **257,482** lines of code across **732** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 12 | 17 | 9 | 14 | 5 | 63 |
-| last60d | 2026-08-12 | 42 | 57 | 22 | 35 | 12 | 103 |
-| 90d | 2026-07-13 | 59 | 76 | 26 | 51 | 13 | 123 |
-| last180d | 2026-04-14 | 100 | 164 | 34 | 105 | 20 | 266 |
-| 360d | 2025-10-16 | 100 | 311 | 40 | 258 | 26 | 458 |
-| last720d | 2024-10-21 | 100 | 413 | 41 | 419 | 29 | 1293 |
+| 30d | 2026-09-12 | 11 | 16 | 9 | 10 | 4 | 10 |
+| last60d | 2026-08-13 | 42 | 57 | 22 | 35 | 12 | 91 |
+| 90d | 2026-07-14 | 59 | 75 | 26 | 51 | 13 | 120 |
+| last180d | 2026-04-15 | 100 | 163 | 34 | 104 | 20 | 255 |
+| 360d | 2025-10-17 | 100 | 311 | 40 | 257 | 26 | 446 |
+| last720d | 2024-10-22 | 100 | 413 | 41 | 419 | 29 | 1293 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for n8n-mcp lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:43:12Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T07:03:07Z._
