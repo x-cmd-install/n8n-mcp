@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/czlonkowski/n8n-mcp/releases/416965489",
-  "assets_url": "https://api.github.com/repos/czlonkowski/n8n-mcp/releases/416965489/assets",
-  "upload_url": "https://uploads.github.com/repos/czlonkowski/n8n-mcp/releases/416965489/assets{?name,label}",
-  "html_url": "https://github.com/czlonkowski/n8n-mcp/releases/tag/v2.94.3",
-  "id": 416965489,
+  "url": "https://api.github.com/repos/czlonkowski/n8n-mcp/releases/420082785",
+  "assets_url": "https://api.github.com/repos/czlonkowski/n8n-mcp/releases/420082785/assets",
+  "upload_url": "https://uploads.github.com/repos/czlonkowski/n8n-mcp/releases/420082785/assets{?name,label}",
+  "html_url": "https://github.com/czlonkowski/n8n-mcp/releases/tag/v2.95.0",
+  "id": 420082785,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOO3qbac4Y2mNx",
-  "tag_name": "v2.94.3",
+  "node_id": "RE_kwDOO3qbac4ZCfRh",
+  "tag_name": "v2.95.0",
   "target_commitish": "main",
-  "name": "Release v2.94.3",
+  "name": "Release v2.95.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-19T06:18:24Z",
-  "updated_at": "2026-10-19T06:20:21Z",
-  "published_at": "2026-10-19T06:18:26Z",
+  "created_at": "2026-10-21T21:39:43Z",
+  "updated_at": "2026-10-21T21:41:37Z",
+  "published_at": "2026-10-21T21:39:46Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/czlonkowski/n8n-mcp/releases/assets/655423356",
-      "id": 655423356,
-      "node_id": "RA_kwDOO3qbac4nEPd8",
-      "name": "n8n-mcp-2.94.3.mcpb",
+      "url": "https://api.github.com/repos/czlonkowski/n8n-mcp/releases/assets/663868428",
+      "id": 663868428,
+      "node_id": "RA_kwDOO3qbac4nkdQM",
+      "name": "n8n-mcp-2.95.0.mcpb",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,15 +65,15 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 2018,
-      "digest": "sha256:3ede00742f2574f584fbc32103f6167e8b61d0be300e00bc1412a346986ec02c",
-      "download_count": 5,
-      "created_at": "2026-10-19T06:20:21Z",
-      "updated_at": "2026-10-19T06:20:21Z",
-      "browser_download_url": "https://github.com/czlonkowski/n8n-mcp/releases/download/v2.94.3/n8n-mcp-2.94.3.mcpb"
+      "size": 2019,
+      "digest": "sha256:5cfab60f1576cf1dff279a28fab43ba0366782973745076fa6b004cc55d49d4d",
+      "download_count": 2,
+      "created_at": "2026-10-21T21:41:37Z",
+      "updated_at": "2026-10-21T21:41:37Z",
+      "browser_download_url": "https://github.com/czlonkowski/n8n-mcp/releases/download/v2.95.0/n8n-mcp-2.95.0.mcpb"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/czlonkowski/n8n-mcp/tarball/v2.94.3",
-  "zipball_url": "https://api.github.com/repos/czlonkowski/n8n-mcp/zipball/v2.94.3",
-  "body": "# Release v2.94.3\n\nGenerating release notes from v2.94.2 to HEAD\n### 📝 Other Changes\n\n- security: remove more free-text fields from workflow telemetry (2.94.3) (#1164) (19b09f5)\n\n---\n\n**Release Statistics:**\n- 1 commit\n- 1 contributor\n- Contributors: Romuald Członkowski\n\n---\n\n## Installation\n\n### NPM Package\n```bash\n# Install globally\nnpm install -g n8n-mcp\n\n# Or run directly\nnpx n8n-mcp\n```\n\n### Docker\n```bash\n# Standard image\ndocker run -p 3000:3000 ghcr.io/czlonkowski/n8n-mcp:v2.94.3\n\n# Railway optimized\ndocker run -p 3000:3000 ghcr.io/czlonkowski/n8n-mcp-railway:v2.94.3\n```\n\n## Documentation\n- [Installation Guide](https://github.com/czlonkowski/n8n-mcp#installation)\n- [Docker Deployment](https://github.com/czlonkowski/n8n-mcp/blob/main/docs/DOCKER_README.md)\n- [n8n Integration](https://github.com/czlonkowski/n8n-mcp/blob/main/docs/N8N_DEPLOYMENT.md)\n- [Complete Changelog](https://github.com/czlonkowski/n8n-mcp/blob/main/docs/CHANGELOG.md)\n\n🤖 *Generated with [Claude Code](https://claude.ai/code)*\n"
+  "tarball_url": "https://api.github.com/repos/czlonkowski/n8n-mcp/tarball/v2.95.0",
+  "zipball_url": "https://api.github.com/repos/czlonkowski/n8n-mcp/zipball/v2.95.0",
+  "body": "# Release v2.95.0\n\nGenerating release notes from v2.94.3 to HEAD\n### ✨ Features\n\n- Update n8n to 2.44.x and flag deprecated nodes (2.95.0) (#1181) (d8ebc29)\n\n### 📚 Documentation\n\n- Add security contact email to SECURITY.md (#1179) (a5a88dd)\n\n---\n\n**Release Statistics:**\n- 2 commits\n- 1 contributor\n- Contributors: Romuald Członkowski\n\n---\n\n## Installation\n\n### NPM Package\n```bash\n# Install globally\nnpm install -g n8n-mcp\n\n# Or run directly\nnpx n8n-mcp\n```\n\n### Docker\n```bash\n# Standard image\ndocker run -p 3000:3000 ghcr.io/czlonkowski/n8n-mcp:v2.95.0\n\n# Railway optimized\ndocker run -p 3000:3000 ghcr.io/czlonkowski/n8n-mcp-railway:v2.95.0\n```\n\n## Documentation\n- [Installation Guide](https://github.com/czlonkowski/n8n-mcp#installation)\n- [Docker Deployment](https://github.com/czlonkowski/n8n-mcp/blob/main/docs/DOCKER_README.md)\n- [n8n Integration](https://github.com/czlonkowski/n8n-mcp/blob/main/docs/N8N_DEPLOYMENT.md)\n- [Complete Changelog](https://github.com/czlonkowski/n8n-mcp/blob/main/docs/CHANGELOG.md)\n\n🤖 *Generated with [Claude Code](https://claude.ai/code)*\n"
 }
