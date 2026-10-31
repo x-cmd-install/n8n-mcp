@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.99.2"
   latestRelease: "v2.99.2"
   latestPrerelease: ""
-  collectedAt: 2026-10-30T06:52:10Z
+  collectedAt: 2026-10-31T06:32:55Z
 timeline:
   created: 2025-06-07
   lastCommit: 2026-10-27
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-10-27
   lastPrerelease: 
 popularity:
-  star: 23169
-  watcher: 153
-  fork: 3677
+  star: 23174
+  watcher: 152
+  fork: 3679
   release: 309
   contributor: 35
   pullRequest: 670
@@ -32,23 +32,23 @@ language:
 totalBytes: 9666845
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 18
-    mergedPR: 14
+    mergedPR: 13
     openPR: 17
     closedIssue: 6
     openIssue: 2
     commit: 40
   last60d:
-    since: 2026-08-31
-    release: 40
+    since: 2026-09-01
+    release: 38
     mergedPR: 44
     openPR: 26
     closedIssue: 30
     openIssue: 5
     commit: 116
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 63
     mergedPR: 74
     openPR: 28
@@ -56,23 +56,23 @@ recent:
     openIssue: 11
     commit: 147
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 100
-    mergedPR: 156
+    mergedPR: 155
     openPR: 38
-    closedIssue: 97
+    closedIssue: 96
     openIssue: 17
     commit: 275
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 100
     mergedPR: 290
     openPR: 45
-    closedIssue: 242
-    openIssue: 23
+    closedIssue: 240
+    openIssue: 22
     commit: 450
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 100
     mergedPR: 424
     openPR: 46
@@ -88,7 +88,7 @@ total:
   commit: 1336
 ---
 path: /home/runner/.x-repo/github.com/czlonkowski/n8n-mcp
-collectedAt: 2026-10-30T06:53:31Z
+collectedAt: 2026-10-31T06:34:30Z
 loc:
   TypeScript:
     code: 196419
