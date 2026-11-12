@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 23379,
       "digest": "sha256:4814b893f650bb6c0ae78906a294431dbe8282abe3df30e29d288344d690cdca",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-09T11:05:25Z",
       "updated_at": "2026-11-09T11:05:25Z",
       "browser_download_url": "https://github.com/czlonkowski/n8n-mcp/releases/download/v2.102.0/n8n-mcp-2.102.0.intoto.jsonl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2018,
       "digest": "sha256:d0e0427da4aa0867b9045ec018c53d3124a3bcc87378f77f1cfef9526c1643d4",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-09T11:04:36Z",
       "updated_at": "2026-11-09T11:04:36Z",
       "browser_download_url": "https://github.com/czlonkowski/n8n-mcp/releases/download/v2.102.0/n8n-mcp-2.102.0.mcpb"
