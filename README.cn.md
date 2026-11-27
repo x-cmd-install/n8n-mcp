@@ -14,12 +14,12 @@ x install n8n-mcp
 
 ## 代码洞察
 
-合计: **264,922** 行代码（覆盖前 5 种语言、共 **758** 个文件）。
+合计: **264,209** 行代码（覆盖前 5 种语言、共 **758** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 198,766 | 25,267 | 33,379 | 646 |
-| Json | 57,655 | 0 | 3 | 27 |
+| TypeScript | 198,757 | 25,267 | 33,379 | 646 |
+| Json | 56,951 | 0 | 3 | 27 |
 | JavaScript | 5,125 | 639 | 917 | 42 |
 | Sh | 1,645 | 322 | 337 | 22 |
 | Tsx | 725 | 3 | 30 | 21 |
@@ -31,7 +31,7 @@ x install n8n-mcp
 评分最低的几项:
 
 - **Code-Review** (0/10) — Found 0/11 approved changesets -- score normalized to 0
-- **Vulnerabilities** (0/10) — 118 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 107 existing vulnerabilities detected
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
 ## 源代码
@@ -42,35 +42,35 @@ x install n8n-mcp
 
 ## 发布
 
-- **最新版本**: `v2.104.0` (2026-11-25)
-- **最近提交**: 2026-11-25
+- **最新版本**: `v2.104.1` (2026-11-27)
+- **最近提交**: 2026-11-27
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 23,313 · **Fork**: 3,674 · **开放 issue**: 451 · **贡献者**: 37
+- **Star**: 23,316 · **Fork**: 3,678 · **开放 issue**: 451 · **贡献者**: 37
 
 ## 累计统计
 
-- **发布数**: 320 · **已合并 PR**: 438 · **开放 PR**: 40 · **已关闭 issue**: 430 · **开放 issue**: 21 · **提交数**: 1382
+- **发布数**: 321 · **已合并 PR**: 439 · **开放 PR**: 36 · **已关闭 issue**: 431 · **开放 issue**: 20 · **提交数**: 1383
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 12 | 14 | 11 | 1 | 2 | 0 |
-| last60d | 2026-09-27 | 30 | 28 | 18 | 8 | 2 | 0 |
-| 90d | 2026-08-28 | 54 | 63 | 26 | 38 | 6 | 0 |
-| last180d | 2026-05-30 | 100 | 150 | 34 | 85 | 13 | 0 |
-| 360d | 2025-12-01 | 100 | 277 | 39 | 221 | 16 | 0 |
-| last720d | 2024-12-06 | 100 | 438 | 40 | 430 | 21 | 1382 |
+| 30d | 2026-10-28 | 12 | 15 | 7 | 1 | 1 | 31 |
+| last60d | 2026-09-28 | 30 | 29 | 14 | 9 | 1 | 73 |
+| 90d | 2026-08-29 | 53 | 61 | 22 | 38 | 2 | 151 |
+| last180d | 2026-05-31 | 100 | 151 | 30 | 85 | 12 | 284 |
+| 360d | 2025-12-02 | 100 | 277 | 35 | 222 | 15 | 443 |
+| last720d | 2024-12-07 | 100 | 439 | 36 | 431 | 20 | 1383 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [n8n-mcp-2.104.0.intoto.jsonl](https://github.com/czlonkowski/n8n-mcp/releases/download/v2.104.0/n8n-mcp-2.104.0.intoto.jsonl) | 24.7 KiB | `other` |
-| [n8n-mcp-2.104.0.mcpb](https://github.com/czlonkowski/n8n-mcp/releases/download/v2.104.0/n8n-mcp-2.104.0.mcpb) | 2.0 KiB | `other` |
+| [n8n-mcp-2.104.1.intoto.jsonl](https://github.com/czlonkowski/n8n-mcp/releases/download/v2.104.1/n8n-mcp-2.104.1.intoto.jsonl) | 26.9 KiB | `other` |
+| [n8n-mcp-2.104.1.mcpb](https://github.com/czlonkowski/n8n-mcp/releases/download/v2.104.1/n8n-mcp-2.104.1.mcpb) | 2.0 KiB | `other` |
 
 ## 改进这些数据
 
@@ -81,4 +81,4 @@ n8n-mcp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T10:04:11Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T10:27:06Z._
