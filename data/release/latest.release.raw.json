@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/czlonkowski/n8n-mcp/releases/458692251",
-  "assets_url": "https://api.github.com/repos/czlonkowski/n8n-mcp/releases/458692251/assets",
-  "upload_url": "https://uploads.github.com/repos/czlonkowski/n8n-mcp/releases/458692251/assets{?name,label}",
-  "html_url": "https://github.com/czlonkowski/n8n-mcp/releases/tag/v2.104.0",
-  "id": 458692251,
+  "url": "https://api.github.com/repos/czlonkowski/n8n-mcp/releases/460400045",
+  "assets_url": "https://api.github.com/repos/czlonkowski/n8n-mcp/releases/460400045/assets",
+  "upload_url": "https://uploads.github.com/repos/czlonkowski/n8n-mcp/releases/460400045/assets{?name,label}",
+  "html_url": "https://github.com/czlonkowski/n8n-mcp/releases/tag/v2.104.1",
+  "id": 460400045,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOO3qbac4bVxab",
-  "tag_name": "v2.104.0",
+  "node_id": "RE_kwDOO3qbac4bcSWt",
+  "tag_name": "v2.104.1",
   "target_commitish": "main",
-  "name": "Release v2.104.0",
+  "name": "Release v2.104.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-25T21:55:06Z",
-  "updated_at": "2026-11-25T21:57:16Z",
-  "published_at": "2026-11-25T21:55:08Z",
+  "created_at": "2026-11-27T09:38:59Z",
+  "updated_at": "2026-11-27T09:41:00Z",
+  "published_at": "2026-11-27T09:39:01Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/czlonkowski/n8n-mcp/releases/assets/793296782",
-      "id": 793296782,
-      "node_id": "RA_kwDOO3qbac4vSL-O",
-      "name": "n8n-mcp-2.104.0.intoto.jsonl",
+      "url": "https://api.github.com/repos/czlonkowski/n8n-mcp/releases/assets/799869416",
+      "id": 799869416,
+      "node_id": "RA_kwDOO3qbac4vrQno",
+      "name": "n8n-mcp-2.104.1.intoto.jsonl",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,18 +65,18 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 25247,
-      "digest": "sha256:de4354c902bf3c790f8b4e6b104b7b13129b16e0ebcf77fb5fc0f554cea135c6",
-      "download_count": 4,
-      "created_at": "2026-11-25T21:57:16Z",
-      "updated_at": "2026-11-25T21:57:16Z",
-      "browser_download_url": "https://github.com/czlonkowski/n8n-mcp/releases/download/v2.104.0/n8n-mcp-2.104.0.intoto.jsonl"
+      "size": 27503,
+      "digest": "sha256:d3a2cccc569974d6b027703b7d2005be0cbd6d8b96608768403ae3eb3b5e08b0",
+      "download_count": 1,
+      "created_at": "2026-11-27T09:41:00Z",
+      "updated_at": "2026-11-27T09:41:00Z",
+      "browser_download_url": "https://github.com/czlonkowski/n8n-mcp/releases/download/v2.104.1/n8n-mcp-2.104.1.intoto.jsonl"
     },
     {
-      "url": "https://api.github.com/repos/czlonkowski/n8n-mcp/releases/assets/793294493",
-      "id": 793294493,
-      "node_id": "RA_kwDOO3qbac4vSLad",
-      "name": "n8n-mcp-2.104.0.mcpb",
+      "url": "https://api.github.com/repos/czlonkowski/n8n-mcp/releases/assets/799866929",
+      "id": 799866929,
+      "node_id": "RA_kwDOO3qbac4vrQAx",
+      "name": "n8n-mcp-2.104.1.mcpb",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -102,14 +102,14 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 2080,
-      "digest": "sha256:fef9baf3d141a195d752fe441b3f63b7a71dcc23de5d98b8755ceea8d5e4582e",
-      "download_count": 4,
-      "created_at": "2026-11-25T21:56:29Z",
-      "updated_at": "2026-11-25T21:56:29Z",
-      "browser_download_url": "https://github.com/czlonkowski/n8n-mcp/releases/download/v2.104.0/n8n-mcp-2.104.0.mcpb"
+      "digest": "sha256:382b29115b4edafeef9cd8b9793ec851cccdc56ff63b8d84a67b344babf98c11",
+      "download_count": 1,
+      "created_at": "2026-11-27T09:40:13Z",
+      "updated_at": "2026-11-27T09:40:13Z",
+      "browser_download_url": "https://github.com/czlonkowski/n8n-mcp/releases/download/v2.104.1/n8n-mcp-2.104.1.mcpb"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/czlonkowski/n8n-mcp/tarball/v2.104.0",
-  "zipball_url": "https://api.github.com/repos/czlonkowski/n8n-mcp/zipball/v2.104.0",
-  "body": "# Release v2.104.0\n\nGenerating release notes from v2.103.2 to HEAD\n### 🔧 Maintenance\n\n- Update n8n to 2.49.6 and add n8n_manage_agents archive (2.104.0) (#1248) (cad5283)\n\n---\n\n**Release Statistics:**\n- 1 commit\n- 1 contributor\n- Contributors: Romuald Członkowski\n\n---\n\n## Installation\n\n### NPM Package\n```bash\n# Install globally\nnpm install -g n8n-mcp\n\n# Or run directly\nnpx n8n-mcp\n```\n\n### Docker\n```bash\n# Standard image\ndocker run -p 3000:3000 ghcr.io/czlonkowski/n8n-mcp:v2.104.0\n\n# Railway optimized\ndocker run -p 3000:3000 ghcr.io/czlonkowski/n8n-mcp-railway:v2.104.0\n```\n\n## Documentation\n- [Installation Guide](https://github.com/czlonkowski/n8n-mcp#installation)\n- [Docker Deployment](https://github.com/czlonkowski/n8n-mcp/blob/main/docs/DOCKER_README.md)\n- [n8n Integration](https://github.com/czlonkowski/n8n-mcp/blob/main/docs/N8N_DEPLOYMENT.md)\n- [Complete Changelog](https://github.com/czlonkowski/n8n-mcp/blob/main/docs/CHANGELOG.md)\n\n🤖 *Generated with [Claude Code](https://claude.ai/code)*\n"
+  "tarball_url": "https://api.github.com/repos/czlonkowski/n8n-mcp/tarball/v2.104.1",
+  "zipball_url": "https://api.github.com/repos/czlonkowski/n8n-mcp/zipball/v2.104.1",
+  "body": "# Release v2.104.1\n\nGenerating release notes from v2.104.0 to HEAD\n### 🔧 Maintenance\n\n- Fold Dependabot updates, migrate to vitest 5 and update the MCP SDK (2.104.1) (#1251) (13dc78a)\n\n---\n\n**Release Statistics:**\n- 1 commit\n- 1 contributor\n- Contributors: Romuald Członkowski\n\n---\n\n## Installation\n\n### NPM Package\n```bash\n# Install globally\nnpm install -g n8n-mcp\n\n# Or run directly\nnpx n8n-mcp\n```\n\n### Docker\n```bash\n# Standard image\ndocker run -p 3000:3000 ghcr.io/czlonkowski/n8n-mcp:v2.104.1\n\n# Railway optimized\ndocker run -p 3000:3000 ghcr.io/czlonkowski/n8n-mcp-railway:v2.104.1\n```\n\n## Documentation\n- [Installation Guide](https://github.com/czlonkowski/n8n-mcp#installation)\n- [Docker Deployment](https://github.com/czlonkowski/n8n-mcp/blob/main/docs/DOCKER_README.md)\n- [n8n Integration](https://github.com/czlonkowski/n8n-mcp/blob/main/docs/N8N_DEPLOYMENT.md)\n- [Complete Changelog](https://github.com/czlonkowski/n8n-mcp/blob/main/docs/CHANGELOG.md)\n\n🤖 *Generated with [Claude Code](https://claude.ai/code)*\n"
 }
